@@ -7,4 +7,4 @@ Beyond my involvement in technology, I have a deep appreciation for the arts. I 
 
 I hold leadership roles in various school clubs, where I collaborate with peers to develop innovative projects. Additionally, I actively participate in volunteer initiatives, aiming to make a positive impact on my community.
 
-I have a strong interest in language learning and cultural diversity. I am fluent in English and possess an intermediate level of proficiency in German.
+I have a strong interest in language learning and cultural diversity. My native language is Turkish. I am proficient in English and possess intermediate proficiency in German.
