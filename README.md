@@ -1,5 +1,5 @@
 ## Hello!
-My name is Doruk Gunveren, and I am currently a student at Cemberlitas Anatolian High School in Istanbul, Turkey. I am actively pursuing personal and academic growth in the field of software development, with a particular focus on image processing technologies. This area—encompassing object detection, pattern recognition, and artificial intelligence integration—enables me to address real-world challenges through innovative and technical solutions.
+My name is Doruk Gunveren, and I am currently a student at Cemberlitas Anatolian High School in Istanbul, Turkey. I am actively pursuing personal and academic growth in the field of software development, with a particular focus on image processing and computer vision technologies. This area—encompassing object detection, pattern recognition, and artificial intelligence integration—enables me to address real-world challenges through innovative and technical solutions.
 
 I currently serve as a software developer for four FRC (FIRST Robotics Competition) teams and one VEX Robotics team. These roles have allowed me to strengthen not only my technical proficiency but also my problem-solving abilities, teamwork, and leadership skills in collaborative and dynamic environments.
 
